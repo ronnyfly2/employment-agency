@@ -1,0 +1,11 @@
+# dependencies
+agency/node_modules
+
+# logs
+agency/npm-debug.log
+
+# Nuxt build
+agency/.nuxt
+
+# Nuxt generate
+agency/dist
